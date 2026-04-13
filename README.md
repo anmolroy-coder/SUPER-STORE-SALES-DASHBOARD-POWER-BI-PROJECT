@@ -1,8 +1,11 @@
  ## Super Store Sales Dashboard | Power BI Project
+ 
+## Project Overview
 
-Excited to share my latest Power BI Dashboard Project based on Super Store Sales Data 
+• This project is an interactive Super Store Sales Dashboard built using Power BI to analyze sales data and gain meaningful insights related to sales, profit, orders, and customer segments.
 
-In this project, I performed end-to-end data analysis, from data cleaning to building an interactive dashboard and generating meaningful insights.
+• The goal of this project is to transform raw sales data into a visual and interactive dashboard that helps in better decision-making and performance tracking.
+
 
 ## Project Highlights:
 
