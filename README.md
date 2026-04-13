@@ -6,7 +6,7 @@ In this project, I performed end-to-end data analysis, from data cleaning to bui
 
 ## Project Highlights:
 
-## Data Cleaning & Transformation
+### Data Cleaning & Transformation
 
 • Cleaned and transformed data using Power Query Editor
 
@@ -16,7 +16,7 @@ In this project, I performed end-to-end data analysis, from data cleaning to bui
 
 • Removed unnecessary columns and structured the dataset
 
-## Key Insights (KPIs)
+### Key Insights (KPIs)
 
 • Total Sales: 1.6M
 
@@ -27,7 +27,7 @@ In this project, I performed end-to-end data analysis, from data cleaning to bui
 • Ship Data Insights
 
 
-## Dashboard Creation
+### Dashboard Creation
 
 • Designed an interactive and visually appealing dashboard
 
@@ -51,7 +51,7 @@ In this project, I performed end-to-end data analysis, from data cleaning to bui
 
 • Sales & Profit by State (Map Visualization)
 
-## Features
+### Features
 
 • Region-wise filtering using slicers
 
@@ -59,12 +59,10 @@ In this project, I performed end-to-end data analysis, from data cleaning to bui
 
 • Business-focused insights for decision making
 
-## Objective:
+### Objective:
 
 To analyze sales performance and generate insights using data analysis and visualization techniques, along with basic forecasting understanding.
 
-## Skills Gained:
+### Skills Gained:
 
 Power BI | Data Cleaning | Data Visualization | Business Insights
-
- I would love to hear your feedback!
